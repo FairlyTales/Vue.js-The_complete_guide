@@ -1,3 +1,3 @@
-# Vue.js course by Maximilian Schwarzmüller
+# Vue.js course
 
 Router, Vuex, Composition API.
